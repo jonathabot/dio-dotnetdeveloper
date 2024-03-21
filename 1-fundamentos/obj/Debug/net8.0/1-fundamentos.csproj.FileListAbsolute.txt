@@ -1,0 +1,14 @@
+C:\Users\jonat\Documents\dio-dotnetdeveloper\1-fundamentos\bin\Debug\net8.0\1-fundamentos.exe
+C:\Users\jonat\Documents\dio-dotnetdeveloper\1-fundamentos\bin\Debug\net8.0\1-fundamentos.deps.json
+C:\Users\jonat\Documents\dio-dotnetdeveloper\1-fundamentos\bin\Debug\net8.0\1-fundamentos.runtimeconfig.json
+C:\Users\jonat\Documents\dio-dotnetdeveloper\1-fundamentos\bin\Debug\net8.0\1-fundamentos.dll
+C:\Users\jonat\Documents\dio-dotnetdeveloper\1-fundamentos\bin\Debug\net8.0\1-fundamentos.pdb
+C:\Users\jonat\Documents\dio-dotnetdeveloper\1-fundamentos\obj\Debug\net8.0\1-fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\dio-dotnetdeveloper\1-fundamentos\obj\Debug\net8.0\1-fundamentos.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\dio-dotnetdeveloper\1-fundamentos\obj\Debug\net8.0\1-fundamentos.AssemblyInfo.cs
+C:\Users\jonat\Documents\dio-dotnetdeveloper\1-fundamentos\obj\Debug\net8.0\1-fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\dio-dotnetdeveloper\1-fundamentos\obj\Debug\net8.0\1-fundamentos.dll
+C:\Users\jonat\Documents\dio-dotnetdeveloper\1-fundamentos\obj\Debug\net8.0\refint\1-fundamentos.dll
+C:\Users\jonat\Documents\dio-dotnetdeveloper\1-fundamentos\obj\Debug\net8.0\1-fundamentos.pdb
+C:\Users\jonat\Documents\dio-dotnetdeveloper\1-fundamentos\obj\Debug\net8.0\1-fundamentos.genruntimeconfig.cache
+C:\Users\jonat\Documents\dio-dotnetdeveloper\1-fundamentos\obj\Debug\net8.0\ref\1-fundamentos.dll
