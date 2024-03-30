@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jonat\\.nuget\\packages\\": {}
+    "C:\\Users\\lebot\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jonat\\Documents\\dio-dotnetdeveloper\\1-fundamentos\\1-fundamentos.csproj",
+      "projectUniqueName": "C:\\Jonatha\\Projetos\\dio-dotnetdeveloper\\1-fundamentos\\1-fundamentos.csproj",
       "projectName": "1-fundamentos",
-      "projectPath": "C:\\Users\\jonat\\Documents\\dio-dotnetdeveloper\\1-fundamentos\\1-fundamentos.csproj",
-      "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jonat\\Documents\\dio-dotnetdeveloper\\1-fundamentos\\obj\\",
+      "projectPath": "C:\\Jonatha\\Projetos\\dio-dotnetdeveloper\\1-fundamentos\\1-fundamentos.csproj",
+      "packagesPath": "C:\\Users\\lebot\\.nuget\\packages\\",
+      "outputPath": "C:\\Jonatha\\Projetos\\dio-dotnetdeveloper\\1-fundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\lebot\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

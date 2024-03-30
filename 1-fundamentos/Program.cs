@@ -1,7 +1,13 @@
 ﻿using _1_fundamentos.Models;
 
-Pessoa pessoa1 = new Pessoa();
+Calculadora calc = new Calculadora();
 
-pessoa1.Nome = "Jonatha";
-pessoa1.Idade = 23;
-pessoa1.Apresentar();
+calc.Somar(10, 10);
+calc.Subtrair(10,50);
+calc.Multiplicar(15,45);
+calc.Dividir(2,2);
+calc.Potencia(3,3);
+calc.Seno(30);
+calc.Coseno(30);
+calc.Tangente(30);
+calc.RaizQuadrada(9);
